@@ -2,6 +2,8 @@
 //--Alunos--
 //Nome: Vinicius Silveira Bonicio RA: 082180002
 //Nome: Jean Alves Gollmann       RA: 082180018
+//Nome: Joao Vitor Luques Rocha   RA: 082180024
+//Nome: Humberto Gonzaga          RA: 082180036
 package l.system;
 
 import Classes.GerarSintaxe;
